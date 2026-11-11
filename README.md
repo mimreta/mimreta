@@ -1,6 +1,6 @@
 # MohammadReza Tayebi
 
-I build small, thoughtful apps - made with care and shared openly.
+A wandering kite. I build small apps that solve everyday problems - for me and for my friends - and share them openly.
 
 ## Projects
 
